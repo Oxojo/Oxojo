@@ -32,33 +32,3 @@ Department of Mathematical and Computing Science (2025/04~)
 Beginner
 
 Now I'm coding server side in TypeScript only...
-
-## VTuber
-
-VTuber, it's japanese SO GREAT culture...
-
-- Vspo!
-    - Sena Asumi
-    - Moka Amayui
-    - Ren Kisaragi
-    - Qpi Kaminari
-    - Tsuna Nekota
-    - Noah Kurumi
-    - Ema Aizawa
-    - Uruha Ichinose
-    - Sumire Kaga
-    - Toto Kogara
-    - Hanabi Choya
-    - Ramune Shiranami
-- Vspo! EN
-    - Eris Suzukami
-- Neo-Porte
-    - Yui Hizuki
-    - Forte Tentei
-    - Toi Itoi
-    - Shizuku Shirona
-    - Shino Asakura
-    - Reid Shirayuki
-- Nijisanji
-    - Toru Koshimizu
-    - Rika Igarashi
