@@ -27,8 +27,3 @@ Department of Mathematical and Computing Science (2025/04~)
 - Astro
     - [My Portfolioo in 2026 (DRAFT)](https://github.com/Oxojo/Portfolio_2025)
 - Studying: Fresh
-
-### Backend
-Beginner
-
-Now I'm coding server side in TypeScript only...
