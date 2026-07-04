@@ -16,7 +16,7 @@ Department of Mathematical and Computing Science (2025/04~)
 ## Competitive Programming
 [My Library (in progress)](https://github.com/Oxojo/cp-library)
 
-[![Oxojo](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FOxojo)](https://codeforces.com/profile/Oxojo)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Oxojo&theme=gruvbox_light&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Oxojo)
 
 ## Web Development
 
